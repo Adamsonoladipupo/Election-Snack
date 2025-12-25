@@ -1,4 +1,9 @@
 package entities;
 
-public class Ballot {
+public enum Ballot {
+
+    CANDIDATEA,
+    CANDIDATEB,
+    CANDIDATEC
+
 }
